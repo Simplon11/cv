@@ -1,0 +1,73 @@
+body
+{
+	height: 1600px;
+}
+
+.cls-centrer
+{
+	margin: 0 auto;
+	width: 1000px;
+	display: flex;
+	flex-direction: column;
+}
+
+.cls-centrer-texte
+{
+	width: 100%;
+	color:red;
+	text-align: center;
+}
+
+header
+{
+	display: flex;
+	flex-direction: row;
+	background-color: red;
+	width: 100%;
+}
+
+.cls-identite
+{
+	text-align: left;
+	background-color: yellow;
+	width: 25%;
+}
+
+.cls-titre-cv
+{
+	text-align: center;
+	background-color: pink;
+	width: 75%;
+}
+
+.cls-nom
+{
+	font-weight: bold;
+}
+
+aside
+{
+	background-color: #000080;
+	color:white;
+	float: left;
+	padding-left: 20px;
+	width:25%;
+	height: 1600px;
+}
+
+section
+{
+	background-color: blue;
+	height: 1600px;
+}
+
+.cls-synthese-competence
+{
+	margin-left: 180px;
+	text-align: left;
+}
+
+div
+{
+	margin: 10px;
+}
